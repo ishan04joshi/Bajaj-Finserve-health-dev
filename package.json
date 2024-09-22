@@ -1,0 +1,14 @@
+{
+  "name": "bfhl-api",
+  "version": "1.0.0",
+  "description": "BFHL API",
+  "main": "api/index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node api/index.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "body-parser": "^1.19.0"
+  }
+}
